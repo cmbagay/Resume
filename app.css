@@ -1,0 +1,45 @@
+body{
+    font-size: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.floating{
+    position: relative;
+    text-align: center;
+}
+
+#job{
+    font-style: italic;
+}
+
+h1{
+    font-size: 2em;
+    margin: 0;
+}
+
+h2{
+    font-size: 1.5em;
+    margin: 0, 15px, 0, 0;
+}
+
+h3{
+    font-size: 1em;
+    margin: 0;
+}
+
+h4{
+    font-size: 1em;
+    font-style: italic;
+    margin: 0;
+}
+
+#Summary{
+    display: flexbox;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+ul{
+    margin: 0;
+}
